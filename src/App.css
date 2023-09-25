@@ -1,0 +1,8 @@
+#root {
+  max-width: 100vw;
+  text-align: center;
+  overflow: hiden;
+    background-image: url("./leaf.jpg");
+      background-size: cover;
+}
+
